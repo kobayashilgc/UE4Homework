@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{650A8BE7-4905-D97B-069A-F880B4D01D83}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4Homework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
